@@ -13,3 +13,6 @@ describe('new file', function () {
 let obj={
 a="1"
 };
+let obj={
+a="2"
+};
