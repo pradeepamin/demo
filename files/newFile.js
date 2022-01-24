@@ -10,5 +10,6 @@ describe('new file', function () {
     }
     //Line of code
 })
-
-
+let obj={
+a="1"
+};
